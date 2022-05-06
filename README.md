@@ -1,2 +1,2 @@
 # Flutter_StudyApp10124
-Flutter で完成したものは適宜ここに入れていってください
+Flutter で作成したアプリのリポジトリ
